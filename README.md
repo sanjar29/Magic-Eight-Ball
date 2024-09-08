@@ -20,7 +20,7 @@ The Magic 8 Ball application is a simple graphical user interface (GUI) program 
 
 1. Open the project in your preferred Java Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse.
 2. Locate the `Magic8Ball` class in your project.
-3. Click the "Run" button (usually a green arrow) to compile and execute the application.
+3. Click on the "Run" button (usually a green arrow) to compile and execute the application.
 
 ### Through Terminal
 
